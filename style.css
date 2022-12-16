@@ -1,0 +1,52 @@
+.navlogo {
+    max-width: 150px;
+
+}
+.penguin-nav-items a{
+    font-weight: 500;
+    color: black;
+    margin-right: 1em;
+}
+.nav-head-text{
+    color: #FABE4C;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: larger;
+}
+.nav-head-text2{
+    color: #363958;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, rgb(164, 188, 70) 0%, rgb(139, 160, 56) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 9px 25px;
+    text-transform: uppercase;
+}
+.buy-now-button img{
+    width: 40px;
+}
+.penguin-card{
+    border: 0;
+    padding:10px 0;
+}
+.penguin-card-img{
+    height: 400px;
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    padding: 40px 60px;
+    margin: 10px;
+}
+.price{
+    color: #FABE4C;
+    font-weight: 700;
+    font-size: 40px;
+}
+.about-us{
+    margin-top: 120px;
+}
